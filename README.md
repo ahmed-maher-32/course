@@ -1,2 +1,3 @@
 # course
-elzero
+elzero 
+##project notes
